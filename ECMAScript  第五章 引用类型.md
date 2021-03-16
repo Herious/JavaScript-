@@ -746,3 +746,7 @@ objectSayColor(); 	// >blue
 ```
 
 #### 5.6 基本包装类型
+
+> 为了便于操作基本类型值，ECMAScript提供了3个特殊的引用类型： Boolean、Number和String
+
+#### 5.6.1Boolean类型
